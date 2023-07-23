@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Github Overview](https://github-readme-stats.vercel.app/api?username=Prabhat565&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Prabhat565) <br>
-![Languages](https://github-readme-stats.itzsylex.vercel.app/api/top-langs/?username=Prabhat565&hide&theme=chartreuse-dark&)
+
 
 ## Visitors Count
 ![Count](https://profile-counter.glitch.me/Prabhat565/count.svg)
