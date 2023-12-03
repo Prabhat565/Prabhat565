@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prabhat565&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Prabhat565&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
@@ -28,8 +28,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Prabhat565&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## Contact
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Contact
 <a href="mailto:sharmaps898@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/860/860758.png" alt="protonmail" length=50 width=50></img></a>
 <a href="https://twitter.com/Prabhat07204339"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384049.png" alt="twitter" length=50 width=50></img></a>
 <a href="https://www.linkedin.com/in/prabhat-sharma-51b4b6222/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin" length=50 width=50></img></a>
