@@ -26,10 +26,14 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Prabhat565&icon=7&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prabhat565&icon=7&color=11)](https://visitcount.itsvg.in) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Contact
-<a href="mailto:sharmaps898@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/860/860758.png" alt="protonmail" length=50 width=50></img></a>
-<a href="https://twitter.com/Prabhat07204339"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384049.png" alt="twitter" length=50 width=50></img></a>
-<a href="https://www.linkedin.com/in/prabhat-sharma-51b4b6222/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384046.png" alt="linkedin" length=50 width=50></img></a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> <h3>📩 Contact</h3>
+<a href="mailto:sharmaps898@gmail.com" target="_blank">
+  <img src="https://github.com/Prabhat565/Prabhat565/assets/104090145/ca306189-dae9-426c-97ca-a04876f79fd7" alt="Description of the image" height="50" width="50">
+</a>
+<a href="https://www.linkedin.com/in/prabhat-sharma-51b4b6222/" target="_blank">
+  <img src="https://github.com/Prabhat565/Prabhat565/assets/104090145/1a378630-0e32-41d2-a7eb-3507a3445783" alt="Description of the image" height="50" width="50">
+</a>
 
