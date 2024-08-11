@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hello visitor, I hope you are doing well ! 👋
 # 💫 About Me:
-🧑‍💻 I am a passionate frontend developer from India<br>🔭 I am currently working on my problem-solving skills<br>🏫 I am a student at Lovely Professional University
+🧑‍💻 I am a passionate fullstack developer from India<br>🔭 I am currently working on my problem-solving skills<br>🏫 I am a student at Lovely Professional University
 
 
 ## 🌐 Socials:
